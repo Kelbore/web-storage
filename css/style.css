@@ -1,0 +1,13 @@
+.text {
+    color:purple;
+}
+
+input {
+    width: 50px;
+    background-color: blue;
+    color: white;
+}
+
+input:hover {
+    background-color: black;
+}
